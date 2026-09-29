@@ -1,0 +1,15 @@
+# 构建产物 / 中间文件
+local-crt/
+*.o
+appres.o
+
+# IDE / 编辑器
+.vscode/
+.idea/
+*.user
+*.suo
+*.swp
+
+# 系统
+Thumbs.db
+desktop.ini
